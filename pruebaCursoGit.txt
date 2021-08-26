@@ -1,0 +1,2 @@
+Texto de prueba para curso de Git y GitHub de Platzi
+Agregando un nuevo parrafo para la nueva clase
