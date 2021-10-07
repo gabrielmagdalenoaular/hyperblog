@@ -1,3 +1,5 @@
 Texto de prueba para curso de Git y GitHub de Platzi
 Agregando un nuevo parrafo para la nueva clase
 Más texto para seguir haciendo pruebas en el curso, en este caso git log --stat
+
+Master 1
