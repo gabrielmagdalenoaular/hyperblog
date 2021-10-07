@@ -3,6 +3,7 @@ Agregando un nuevo parrafo para la nueva clase
 Más texto para seguir haciendo pruebas en el curso, en este caso git log --stat
 
 Experimento 1
+Experimento 2
 
 Master 1
 Master 2
